@@ -1,0 +1,4 @@
+1. implement service directory service (Eureka)
+2. implement Hystrix circuit breaker
+3. implement API gateway
+3. implement zipkin-sleuth - distributed logging
